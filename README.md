@@ -4,7 +4,7 @@
 ## 여기는 두번쨰 헤드
 * 안녕
 * 나는 
-* 리스트야
+* 리스트야history
 * 어떠니?
 
 [여기는 구글]
@@ -18,7 +18,8 @@
 import headal 
 include *
 
-print("hello world!")```
+print("hello world!")
+```
 
 
 
