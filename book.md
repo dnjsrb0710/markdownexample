@@ -60,5 +60,5 @@
 
 `2. Quora`
 
-![Quora_logo](./image/Quora_logo.png)
+![Quoro_logo](./image/Quoro_logo.png)
 
