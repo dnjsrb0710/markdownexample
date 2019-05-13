@@ -24,6 +24,15 @@
 
 ![freelec](./image/freelec.PNG)
 
+* 프리렉은 책을 판매할 뿐만 아니라 유튜브,페이스북,네이버 포스트를 통해 최신 정보를 업데이트하고 강의를 들을수 있게 되어있다.
+
+[프리렉 사이트](https://freelec.co.kr/)
+
+[프리렉 유튜브](https://www.youtube.com/user/FREELECKOR)
+
+[프리렉 페이스북](https://www.facebook.com/%ED%94%84%EB%A6%AC%EB%A0%89-%EC%B6%9C%ED%8C%90%EC%82%AC-freelec-509640889554399/)
+
+[프리렉 네이버포스트](https://post.naver.com/my.nhn?memberNo=34865381)
 
 
 
@@ -34,6 +43,22 @@
 
 `1. Udemy`
 
+![Udemy_logo](./image/Udemy_logo.png)
 
-![Udemy_logo](./image/Udemy_logo.PNG)
+* Udemy는 100,000개의 다양한 주제의 강의를 가진 **세계 최대의 강좌 모음**입니다. 강사가 올린 강의를 확인하고, 미리보기와 리뷰를 통하여 구매할지 결정할수있습니다.
+
+[Udemy 사이트](https://www.udemy.com/)
+
+
+![Udemy_main](./image/Udemy_main.png)
+
+### 3. 개발자 커뮤니티 사이트
+
+`1. Stack Overflow`
+
+![Stackoverflow_logo](./image/StackOverflow_logo.png)
+
+`2. Quora`
+
+![Quora_logo](./image/Quora_logo.png)
 
