@@ -43,7 +43,7 @@
 
 `1. Udemy`
 
-![Udemy_logo](./image/Udemy_logo.png)
+[![Udemy_logo](./image/Udemy_logo.png)](https://www.udemy.com/)
 
 * Udemy는 100,000개의 다양한 주제의 강의를 가진 **세계 최대의 강좌 모음**입니다. 강사가 올린 강의를 확인하고, 미리보기와 리뷰를 통하여 구매할지 결정할수있습니다.
 
@@ -54,11 +54,13 @@
 
 ### 3. 개발자 커뮤니티 사이트
 
+* 개발자들이 주로 사용하는 커뮤니티 사이트는 크게 [Stackoverflow](https://stackoverflow.com/)와 [Quora](https://Quora.com/) 두가지가 있습니다. 이 사이트들은 프로그래밍을 하다가 에러가 발생했을때, 질문을 하고 답변을 받을 수 있는 사이트입니다. 
+
 `1. Stack Overflow`
 
-![Stackoverflow_logo](./image/StackOverflow_logo.png)
+[![Stackoverflow_logo](./image/StackOverflow_logo.png)](https://stackoverflow.com/)
 
 `2. Quora`
 
-![Quoro_logo](./image/Quoro_logo.png)
+[![Quora_logo](./image/Quoro_logo.png)](https://Quora.com/)
 
