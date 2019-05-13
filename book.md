@@ -34,6 +34,24 @@
 
 [프리렉 네이버포스트](https://post.naver.com/my.nhn?memberNo=34865381)
 
+`3.에이콘(acorn)`
+
+![acorn](./image/acorn.PNG)
+
+* 에이콘이 다른 출판사이트와 다른 점은 책을 여러가지 주제로 나누어서 정리를 해놓았기 때문에 자기가 원하는 주제의 책을 쉽게 찾을 수 있다는 것이다.
+
+![acornset](./image/acornset.PNG)
+
+ [에이콘(acorn)](http://acornpub.co.kr/)
+
+`4.제이펍(jpub)`
+
+* 다른 곳에 비해 딱히 좋은 특성은 없지만 제이펍이라는 출판 사이트도 존재한다.
+
+![jpub](./image/jpub.PNG)
+
+**위의 사이트에서 책을 구매하여 강의자료에 쓰일 내용을 정리해 강의 자료를 만들 수 있다!!!**
+
 
 
 
@@ -52,7 +70,7 @@
 
 ![Udemy_main](./image/Udemy_main.png)
 
-![Udemy_review.png](./image/UdemyUdemy_review.png)
+![Udemy_review.png](./image/Udemy_review.png)
 
 ### 3. 개발자 커뮤니티 사이트
 
