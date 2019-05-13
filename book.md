@@ -52,6 +52,8 @@
 
 ![Udemy_main](./image/Udemy_main.png)
 
+![Udemy_review.png](./image/UdemyUdemy_review.png)
+
 ### 3. 개발자 커뮤니티 사이트
 
 * 개발자들이 주로 사용하는 커뮤니티 사이트는 크게 [Stackoverflow](https://stackoverflow.com/)와 [Quora](https://Quora.com/) 두가지가 있습니다. 이 사이트들은 프로그래밍을 하다가 에러가 발생했을때, 질문을 하고 답변을 받을 수 있는 사이트입니다. 
