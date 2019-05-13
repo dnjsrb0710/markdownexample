@@ -5,7 +5,7 @@
 * 가장 기본적인 참고문헌에는 **책**이있다. 하지만 IT전문서와 활용서는 일반서점에서 팔지 않을수도 있기에 다음과 같은 사이트를 소개하다.
 
 
-`1.한빛 미디어`
+#### (1) 한빛 미디어
 
 
 ![hanbitmedia](./image/hanbitmedia.PNG)
@@ -20,7 +20,7 @@
 [한빛미디어 홈페이지](http://www.hanbit.co.kr/store/books/bestseller_list.html)
 
 
-`2.프리렉(freelec)`
+#### (2) 프리렉(freelec)
 
 ![freelec](./image/freelec.PNG)
 
@@ -34,7 +34,7 @@
 
 [프리렉 네이버포스트](https://post.naver.com/my.nhn?memberNo=34865381)
 
-`3.에이콘(acorn)`
+#### (3) 에이콘(acorn)
 
 ![acorn](./image/acorn.PNG)
 
@@ -44,11 +44,13 @@
 
  [에이콘(acorn)](http://acornpub.co.kr/)
 
-`4.제이펍(jpub)`
+#### (3) 제이펍(jpub)
 
 * 다른 곳에 비해 딱히 좋은 특성은 없지만 제이펍이라는 출판 사이트도 존재한다.
 
 ![jpub](./image/jpub.PNG)
+
+[제이펍](https://jpub.tistory.com/)
 
 **위의 사이트에서 책을 구매하여 강의자료에 쓰일 내용을 정리해 강의 자료를 만들 수 있다!!!**
 
